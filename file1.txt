@@ -1,2 +1,2 @@
-HELLO UPDATED FROM GITHUB ...This is my first file
+HELLO UPDATED FROM GITHUB .....This is my first file
 updated "hello goodmorning, how are u?"
